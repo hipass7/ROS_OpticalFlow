@@ -3,9 +3,11 @@
 
 < Mission #1 >
 - Goal
+
 연결된 카메라 화면을 Topic Subscriber로 받아 Mat 객체로 변환하는 패키지를 만들었다.
 
 - Timeline
+
 $ catkin_create_pkg ros_sample_image_transport std_msgs roscpp
 
 이후, 패키지 설정 파일과 빌드 설정 파일은 참고 링크에서 가져와 사용하였다.
